@@ -28,8 +28,6 @@
 #include <vector>
 #include <map>
 
-/* -- End Includes -- */
-
 class Uri
 {
     public:
