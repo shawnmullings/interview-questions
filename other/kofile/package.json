@@ -1,0 +1,30 @@
+{
+  "name": "kofile-coding-challenge",
+  "version": "1.0.0",
+  "description": "Kofile coding challenge",
+  "main": "server.js",
+  "scripts": {
+    "serve": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "Kofile",
+    "Coding",
+    "Challenge"
+  ],
+  "author": "shawnmullings@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "nodemon": "^1.11.0"
+  }
+}
