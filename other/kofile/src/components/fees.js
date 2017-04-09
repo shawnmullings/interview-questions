@@ -67,11 +67,11 @@ fees.computePriceTotal = (order_transaction, fee_data) => {
         	item_obj.price = item.price;
 
         	order_obj.items.push(item_obj);
-		});
+		  });
 
-		order_obj.order_total = total['total-price'];
-		ret.push(order_obj);
-	});
+		  order_obj.order_total = total['total-price'];
+		  ret.push(order_obj);
+	 });
 
 	return ret;
 }

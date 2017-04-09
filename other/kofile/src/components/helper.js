@@ -34,7 +34,7 @@ helper.getOrderTotalWithItems = (order_items, fee_data) => {
          .pluck('amount').value();
 
          // Calculate total fee for amount of pages
-         const page_fee_calculated = (--order_item.page) > 0 ? (--order_item.pages * per_page_fee) : 0;
+         const page_fee_calculated = (--order_item.pages) > 0 ? (--order_item.pages * per_page_fee) : 0;
          // Calculate item price
          const item_price = parseInt(base_fee) + parseInt(page_fee_calculated);
          
