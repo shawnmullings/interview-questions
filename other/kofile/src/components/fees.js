@@ -14,6 +14,8 @@ The total cost for the order item is the aggregate of all of fees associated wit
 There are different types of fees. Flat fees are simply a single charge. 
 Per-page fees add an additional fee on top of a flat fee for each page after the first.
 
+flat fee + ( (pages - 1) * Per-page fee) 
+
 Challenge:
 
 Write Javascript that outputs to the console the prices for each order item and order in the orders.json file based on the fees in the fees.json file.

@@ -17,7 +17,7 @@ routes.get('/', (req, res) => {
 fees.challenge();
 
 // Challenge Part 2
-//distributions.challenge();
+distributions.challenge();
 
 /*
 *	Fees Endpoint
