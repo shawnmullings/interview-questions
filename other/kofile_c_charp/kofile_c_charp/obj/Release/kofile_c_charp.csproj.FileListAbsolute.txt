@@ -1,0 +1,10 @@
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/kofile_c_charp.dll
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/Newtonsoft.Json.dll
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/System.Net.Http.Formatting.dll
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/System.Web.Http.dll
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/System.Web.Http.WebHost.dll
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/System.Net.Http.Formatting.xml
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/System.Web.Http.xml
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/System.Web.Http.WebHost.xml
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/bin/Newtonsoft.Json.xml
+/Users/shawnmullings/Documents/work/projects/sm/interview-questions/other/kofile_c_charp/kofile_c_charp/obj/Release/kofile_c_charp.dll
